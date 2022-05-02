@@ -1,0 +1,7 @@
+.dockerignore
+.env.default
+.gitignore
+Dockerfile
+Gemfile.lock
+README.md
+vrbot.db
